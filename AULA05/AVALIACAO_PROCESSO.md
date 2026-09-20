@@ -44,4 +44,4 @@ O processo envolve muitas transações por dia e pagamentos e muitas movimentaç
 
 7- Se estiver tudo em horden e as informções dos dois documentos do dia nao tiverem com alguma diferença, ira avisar no sistema como "Arquivos de transição corretos" e ira registrar no sistema o documento, classificando como "Analise de conferencia OK" marcado em verde.
 
-8- O Bot continua esse processo até que todos os arquivos do CSV e ERP estejam conferidos;
+8- O Bot continua esse processo até que todos os arquivos do CSV e ERP estejam conferidos.
