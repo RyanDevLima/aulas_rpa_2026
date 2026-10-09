@@ -1,0 +1,5 @@
+/**/*_resp.md
+.venv/
+.kiro/
+.pytest_cache/
+/**/__pycache__/
